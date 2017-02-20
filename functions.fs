@@ -16,4 +16,3 @@ let speed (dist:float) = dist / 2.0;;
 
 speed 20.0;;
  val it : float = 10.0
-Raw
